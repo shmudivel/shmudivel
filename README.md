@@ -22,8 +22,3 @@
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-#### Repository stats
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=xtenzq&theme=nord&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtenzq&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
-</div>
