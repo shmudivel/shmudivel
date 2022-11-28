@@ -2,6 +2,7 @@
 <p>Welcome to my page! </br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/206/206778.png" width="13"/> <b>Ust-Kamenogorsk, Kazakhstan</b>, currently in <img src="https://cdn-icons-png.flaticon.com/512/3013/3013911.png" width="13"/> <b>Tennessee, USA</b>. </p>
 <h3>Things I code with</h3>
 <p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
