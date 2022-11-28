@@ -1,5 +1,5 @@
 ## 👋 Hey, I’m **Darkhan**
-<p>Welcome to my page! </br> I'm from <img src="https://cdn-icons-png.flaticon.com/512/206/206778.png" width="13"/> <b>Ust-Kamenogorsk, Kazakhstan</b>, currently in <img src="https://cdn-icons-png.flaticon.com/512/3013/3013911.png" width="13"/> <b>Tennessee, USA</b>. </p>
+<p>Welcome to my page! </br> I'm currently base in <img src="https://cdn-icons-png.flaticon.com/512/206/206778.png" width="13"/> <b>Almaty, Kazakhstan. </p>
 
 #### Social links
 [![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=githubpages&logoColor=white)](https://shmudivel.github.io/Portfolio/)
