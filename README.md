@@ -1,4 +1,4 @@
-## 👋 Hey, I’m **Darkhan**
+## 👋 Hey, I’m **Darkhan** Frontend developer
 <p>Welcome to my page! </br> I'm currently base in <img src="https://cdn-icons-png.flaticon.com/512/206/206778.png" width="13"/> <b>Almaty, Kazakhstan. </p>
 
 #### Social links
